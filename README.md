@@ -1,7 +1,10 @@
 # Netflix-clone
+
 Created with CodeSandbox
-NETFLIX CLONE 
+
+
 This Netflix Clone is a responsive, frontend-only website built using HTML, CSS, and JavaScript. It replicates the UI and layout of Netflix’s homepage, featuring a clean design, engaging movie sections, and a layout optimized for both desktop and mobile screens.
+
 Live Demo: 🔗 https://ais-u.github.io/Netflix-clone/#
 ---
 
